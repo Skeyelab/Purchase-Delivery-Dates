@@ -1,0 +1,5 @@
+<h3 style="color:green">{{totaldays}}</h3>
+<h4>Days inside max delivery date</h4>
+<br />
+<p>Max Delivery Date: {{maxDelivery}}</p>
+<p>Voucher Purchase Date: {{purchaseDate}}</p>

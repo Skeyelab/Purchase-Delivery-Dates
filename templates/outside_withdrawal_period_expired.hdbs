@@ -1,0 +1,7 @@
+<h3 style="color:red">{{days}}</h3> 
+<p>Business days since voucher was purchased</p>
+<h4 style="color:red">Outside withdrawal period</h4>
+<br />
+<h3 style="color:red">{{totalexpdays}}</h3> 
+<p>Days since voucher expiry date</p>
+<h4 style="color:red">Outside expiry period</h4>

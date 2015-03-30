@@ -1,0 +1,37 @@
+{
+  "name": "Delivery/Purchase Date",
+  "author": {
+    "name": "Charlie",
+    "email": "cshort@groupon.com"
+  },
+  "parameters": [
+    {
+      "name": "expiry_field",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "voucher_purchase_date_field",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "issues_by_vertical_field",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "max_delivery_days_field",
+      "type": "text",
+      "required": true
+    }
+  ],
+  "defaultLocale": "en",
+  "private": true,
+  "location": [
+    "ticket_sidebar",
+    "new_ticket_sidebar"
+  ],
+  "frameworkVersion": "1.0",
+  "version": "1.0.1"
+}

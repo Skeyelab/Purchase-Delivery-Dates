@@ -1,0 +1,13 @@
+{
+  "app": {
+    "package": "max_delivery_date",
+    "name": {
+      "value": "Max Delivery Date App",
+      "title": "app name"
+    },
+    "description": {
+      "value": "Purchase date VS delivery date",
+      "title": "Purchase date VS delivery date"
+    }
+  }
+}
