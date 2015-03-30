@@ -40,12 +40,6 @@
 
         }
       }
-      /*else { // Error: not a Goods ticket
-      			var vertical = ticket.customField("custom_field_20529251");
-      			this.switchTo('error_not_goods', {
-      				vertical: vertical
-      			});
-      		}*/
       else {
 
         if ((ticket.customField("custom_field_" + this.setting('expiry_field')) === null) || (ticket.customField("custom_field_" + this.setting('voucher_purchase_date_field')) === null)) {
